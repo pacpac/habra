@@ -1,5 +1,5 @@
 # Habra
-Материалы для публикаций на хабре
+Материалы для публикаций на хабре [https://habr.com]
 
 # Публикации
 * [История инженерных конструкторов fischertechnik](https://habr.com/ru/company/pacpac/blog/374075/)
